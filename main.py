@@ -1,5 +1,5 @@
 def simple_count(s):
-    return 0  # FIXME: should return the length of the string
+    return len(s)
 
 
 def random_function():
