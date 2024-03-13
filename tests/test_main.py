@@ -9,5 +9,5 @@ class MyTestCase(unittest.TestCase):
     def test_simple_function2(self):
         self.assertEqual(5, simple_count('hello'))
 
-    # def test_complex_function(self):
-    #     self.assertEqual('behaviour 1', complex_function())
+    #def test_complex_function(self):
+       #  self.assertEqual('behaviour 1', complex_function())
